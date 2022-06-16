@@ -15,10 +15,10 @@
   <a href="https://twitter.com/safu_jay" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=d18014&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-  <a href="" target="_blank">
+  <!-- <a href="" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=DEV-TO&color=cde928&style=plastic&logo=dev.to&logo-color=white"/>
-  </a>
-  <a href="" target="_blank" download="Resume.pdf">
+  </a> -->
+  <a href="cv.pdf" target="_blank" download="cv.pdf">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=24555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
