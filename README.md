@@ -146,6 +146,7 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=python&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=python&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=python&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Database-PostgressSQL-informational?style=flat&logo=mongodb&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=brightgreen)
