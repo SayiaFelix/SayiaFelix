@@ -45,7 +45,6 @@
 <br>
 
 ### Projects ⚙️
-#DAE2DF
 <table bordercolor="#66b2b">
   <tr>
     <td width="50%" valign="top">
