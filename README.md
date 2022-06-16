@@ -1,5 +1,5 @@
 
-[![Header](https://github.com/SayiaFelix/SayiaFelix/blob/main/api.png?raw=true "Header")](https://sirfelix-portfolio.herokuapp.com/)
+[![Header](https://github.com/SayiaFelix/SayiaFelix/blob/main/logo.png?raw=true "Header")](https://sirfelix-portfolio.herokuapp.com/)
 
 <h3 align="center">A Fullstack Engineer from Nairobi, Kenya</h3>
 
@@ -25,7 +25,7 @@
 <!-- **SayiaFelix/SayiaFelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <hr>
-<h1 align="center"> Hello Folks! <img src="https://github.com/SayiaFelix/SayiaFelix/blob/main/wave.gif?raw=true" width="30">,</h1>
+<h1 align="center"> Hello Folks! <img src="https://github.com/SayiaFelix/SayiaFelix/blob/main/wave.gif?raw=true" width="30"></h1>
 <img style="border-radius:10px;" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" align="right" height="300">
 
 🌱 I’m currently learning django,
