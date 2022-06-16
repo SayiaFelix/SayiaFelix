@@ -29,7 +29,7 @@
 
 
 Here are some ideas to get you started:
-
+<img src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" align="right" height="300">
 
 🌱 I’m currently learning React, NextJS
 
@@ -45,5 +45,5 @@ Here are some ideas to get you started:
 
 ⚡ Fun fact  - I like mathematics and music
 
-<img src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" align="right" height="300">
+
 <br>
