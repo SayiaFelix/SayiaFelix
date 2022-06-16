@@ -45,6 +45,7 @@
 <br>
 <br>
 <hr>
+
 ### Projects ⚙️
 <table bordercolor="#66b2b">
   <tr>
