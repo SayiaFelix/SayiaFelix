@@ -18,7 +18,7 @@
       <img src="https://img.shields.io/static/v1?label=|&message=DEV-TO&color=cde928&style=plastic&logo=dev.to&logo-color=white"/>
   </a>
   <a href="" target="_blank" download="Resume.pdf">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=24555f&style=plastic&logo=react&logo-color=white"/>
+      <img style="border-radius:10px;"src="https://img.shields.io/static/v1?label=|&message=RESUME&color=24555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
 
