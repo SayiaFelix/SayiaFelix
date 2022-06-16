@@ -1,6 +1,6 @@
 
 [![Header](https://github.com/SayiaFelix/SayiaFelix/blob/main/api.png?raw=true "Header")](https://sirfelix-portfolio.herokuapp.com/)
-<h1 align="center"> I'm Sayia Felix Lucas</h1>
+
 <h3 align="center">A Fullstack Engineer from Nairobi, Kenya</h3>
 
  
@@ -15,9 +15,6 @@
   <a href="https://twitter.com/safu_jay" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=d18014&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-  <!-- <a href="" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=DEV-TO&color=cde928&style=plastic&logo=dev.to&logo-color=white"/>
-  </a> -->
   <a href="cv.pdf" target="_blank" download="cv.pdf">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=24555f&style=plastic&logo=react&logo-color=white"/>
   </a>
@@ -28,8 +25,7 @@
 <!-- **SayiaFelix/SayiaFelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <hr>
-<h1 align="center">Hello Folks👋,</h1>
-# Hello Folks! <img src="https://github.com/SayiaFelix/SayiaFelix/blob/main/wave.gif?raw=true" width="30">
+<h1 align="center"> Hello Folks! <img src="https://github.com/SayiaFelix/SayiaFelix/blob/main/wave.gif?raw=true" width="30">,</h1>
 <img style="border-radius:10px;" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" align="right" height="300">
 
 🌱 I’m currently learning django,
