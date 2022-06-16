@@ -48,7 +48,7 @@
 <table bordercolor="#66b2b">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Portfolio</h3>
+      <h2 align="center">PORTFOLIO</h2>
       <br />
         <a target="_blank" href="https://sirfelix-portfolio.herokuapp.com/">
           <img src="images/api.png" width="100%" alt="portfolio"/>
@@ -62,7 +62,7 @@
       </p> 
     </td>
     <td width="50%" valign="top">
-        <h3 align="center">Instagram Lite</h3>
+        <h2 align="center">INSTAGRAM LITE</h2>
           <br />
           <a target="_blank" href="https://sir-instalite.herokuapp.com/">
               <img src="images/picmain.png" width="100%" alt="Insta clone"/>
@@ -78,7 +78,7 @@
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <h3 align="center">News API</h3>
+        <h2 align="center">NEWS API</h2>
           <br />
         <a target="_blank" href="https://sirfelixnews.herokuapp.com/">
               <img src="images/NEWS.png" width="100%"  alt="NEWS API"/>
@@ -92,7 +92,7 @@
         </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">The Dev Planner</h3>
+      <h2 align="center">THE DEV PLANNER</h2>
         <br />
         <a target="_blank" href="https://the-dev-planner.herokuapp.com/">
           <img src="images/dev.png" width="100%" alt="DEV Planner"/>
@@ -108,7 +108,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-        <h3 align="center">BLOG APP</h3>
+        <h2 align="center">BLOG APP</h2>
         <br />
           <a target="_blank" href="https://sirfeliz-blog.herokuapp.com/">
             <img src="images/BLOG.png" width="100%" alt="BLOG APP"/>
@@ -122,7 +122,7 @@
         </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">AWWWARDS. HUB</h3>
+      <h2 align="center">AWWWARDS. HUB</h2>
         <br />
         <a target="_blank" href="https://sir-awwwards.herokuapp.com/">
           <img src="images/AWARDS.png" width="100%" alt="IP Address Tracker"/>
