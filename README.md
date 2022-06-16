@@ -34,8 +34,6 @@
 
 👨‍💻 All of my projects are available at [my website](https://sirfelix-portfolio.herokuapp.com/)
 
-📝 I actively post on LinkedIn 
-
 👀 Ask me about AngularJs, Flask and APIs
 
 📫You can reach me at sayiafelix18@gmail.com
