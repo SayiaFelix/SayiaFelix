@@ -43,7 +43,8 @@
 ⚡ Fun fact  - I like mathematics and music
 
 <br>
-
+<br>
+<hr>
 ### Projects ⚙️
 <table bordercolor="#66b2b">
   <tr>
