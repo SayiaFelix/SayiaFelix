@@ -34,7 +34,7 @@
 
 👨‍💻 All of my projects are available at [my website](https://sirfelix-portfolio.herokuapp.com/)
 
-👀 Ask me about AngularJs, Flask and APIs
+👀 Ask me about AngularJs, Flask,django and APIs
 
 📫You can reach me at sayiafelix18@gmail.com
 
@@ -176,7 +176,7 @@
 </a>
 
 <a href="https://github.com/SayiaFelix/Instagram_lite">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SayiaFelix&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=Rahul%20Karda%27s%20Github%20Stats" alt="Sayia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SayiaFelix&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=Sayia%20Felix%27s%20Github%20Stats" alt="Sayia" />
 </a>
 <br><br>
 
