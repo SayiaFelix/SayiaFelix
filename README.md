@@ -213,7 +213,7 @@
   <p>
   <img src="https://github-profile-trophy.vercel.app/?username=SayiaFelix&theme=onedark&column=3&margin-w=15&margin-h=15" />
   </p>
-   <img src="https://metrics.lecoq.io/SayiaFelix?template=classic&activity=1&followup=1&languages=1&lines=1&people=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=true&people.shuffle=true&config.timezone=Asia%2FCalcutta&config.twemoji=true" alt="Detailed Github Stats"/>  
+   <!-- <img src="https://metrics.lecoq.io/SayiaFelix?template=classic&activity=1&followup=1&languages=1&lines=1&people=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=true&people.shuffle=true&config.timezone=Asia%2FCalcutta&config.twemoji=true" alt="Detailed Github Stats"/>   -->
   <br>
 
 </details>
