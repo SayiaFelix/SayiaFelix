@@ -1,5 +1,7 @@
-### Hi Folks,👋
-### I,m Sayia Felix Lucas
+
+<h1 align="center">Hi 👋, I'm Sayia Felix Lucas</h1>
+<h3 align="center">A Fullstack Engineer from Kenya</h3>
+
 <p align="center">
   <a href="https://sirfelix-portfolio.herokuapp.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=ff&style=plastic&logo=realm&logo-color=white"/>
