@@ -195,29 +195,6 @@
 </a>
 <br><br>
 
-<a href="https://github.com/SayiaFelix/Awwwards">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SayiaFelix&repo=Awwwards&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> 
-
-<a href="https://github.com/SayiaFelix/Blog_app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SayiaFelix&repo=Blog_app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/SayiaFelix/MyClub">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SayiaFelix&repo=MyClub&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/SayiaFelix/MyClub">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SayiaFelix&repo=MyClub&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/SayiaFelix/Password_Locker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SayiaFelix&repo=Password_Locker&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-
-<a href="https://github.com/SayiaFelix/Watchlist-practice">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SayiaFelix&repo=Watchlist-practicer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<br><br>
 
 
 ## Extras 📝
