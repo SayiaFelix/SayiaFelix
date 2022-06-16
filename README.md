@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sayia Felix Lucas</h1>
 <h3 align="center">A Fullstack Engineer from Kenya</h3>
 
- <img src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" align="right" height="300">
+ 
 
 <p align="center">
   <a href="https://sirfelix-portfolio.herokuapp.com/" target="_blank">
@@ -24,20 +24,13 @@
 
 
 <br><br>
-<!--
-**SayiaFelix/SayiaFelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!-- **SayiaFelix/SayiaFelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 🌱 I’m currently learning React, NextJS
 
 👯 I’m looking to collaborate on different projects
@@ -52,4 +45,5 @@ Here are some ideas to get you started:
 
 ⚡ Fun fact  - I like mathematics and music
 
+<img src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" align="right" height="300">
 <br>
