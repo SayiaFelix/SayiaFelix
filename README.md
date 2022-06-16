@@ -1,7 +1,7 @@
 
 <!-- [![Header](https://github.com/SayiaFelix/SayiaFelix/blob/main/logo.png?raw=true "Header")](https://sirfelix-portfolio.herokuapp.com/) -->
 <h1 align="center"> Hello Folks! <img src="https://github.com/SayiaFelix/SayiaFelix/blob/main/wave.gif?raw=true" width="30"></h1>
-<h2 align="center">Sayia Felix Lucas</h2>
+<h2 align="center">I'm Sayia Felix Lucas</h2>
 <h3 align="center">A Fullstack Engineer from Nairobi, Kenya</h3>
 
  
