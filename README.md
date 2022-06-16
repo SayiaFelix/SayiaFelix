@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Sayia Felix Lucas</h1>
 <h3 align="center">A Fullstack Engineer from Kenya</h3>
 
+ <img src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" align="right" height="300">
+
 <p align="center">
   <a href="https://sirfelix-portfolio.herokuapp.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=ff&style=plastic&logo=realm&logo-color=white"/>
@@ -36,3 +38,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌱 I’m currently learning React, NextJS
+
+👯 I’m looking to collaborate on different projects
+
+👨‍💻 All of my projects are available at [my website](https://sirfelix-portfolio.herokuapp.com/)
+
+📝 I actively post on LinkedIn 
+
+👀 Ask me about AngularJs, Flask and APIs
+
+📫You can reach me at sayiafelix18@gmail.com
+
+⚡ Fun fact  - I like mathematics and music
+
+<br>
