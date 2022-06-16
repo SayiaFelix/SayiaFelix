@@ -56,9 +56,6 @@
       <br />
         <p align="center">
           <br>
-           <!-- <a href="https://sirfelix-portfolio.herokuapp.com/Sir_Felix_Portfolio" target="_blank">
-           <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-            </a> -->
           <a href="https://sirfelix-portfolio.herokuapp.com/" target="_blank">
            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
             </a>
@@ -73,9 +70,6 @@
           <br />
           <p align="center">
             <br>
-          <a href="https://sir-instalite.herokuapp.com/Instagram_lite" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-         </a>  
          <a href="https://sir-instalite.herokuapp.com/" target="_blank">
          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
          </a>
@@ -92,11 +86,8 @@
           <br />
           <p align="center">
         <br>
-        <a href="https://sirfelixnews.herokuapp.com/News_API" target="_blank">
-        <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-        </a> 
-      <a href="https://sirfelixnews.herokuapp.com/" target="_blank">
-        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+        <a href="https://sirfelixnews.herokuapp.com/" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
         </a>
         </p>
     </td>
@@ -109,12 +100,9 @@
         <br>
         <p align="center">
           <br>
-         <a href="https://the-dev-planner.herokuapp.com/The_Dev_Planner" target="_blank">
-        <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+         <a href="https://the-dev-planner.herokuapp.com/" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
         </a>
-       <a href="https://the-dev-planner.herokuapp.com/" target="_blank">
-       <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-       </a>
       </p>  
     </td>
   </tr>
@@ -128,12 +116,9 @@
         <br />
           <p align="center">
             <br>
-      <a href="https://sirfeliz-blog.herokuapp.com/Blog_app" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-      </a>
-      <a href="https://sirfeliz-blog.herokuapp.com/" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-       </a>
+         <a href="https://sirfeliz-blog.herokuapp.com/" target="_blank">
+         <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+         </a>
         </p>
     </td>
     <td width="50%" valign="top">
@@ -145,11 +130,8 @@
         <br />
         <p align="center">
           <br>
-       <a href="https://sir-awwwards.herokuapp.com/Awwwards" target="_blank">
-       <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-     </a>
-      <a href="https://sir-awwwards.herokuapp.com/" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+         <a href="https://sir-awwwards.herokuapp.com/" target="_blank">
+         <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
        </a>
       </p>
     </td>
