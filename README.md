@@ -44,7 +44,7 @@
 <br>
 <hr>
 
-### Projects ⚙️
+# Projects ⚙️
 <table bordercolor="#66b2b">
   <tr>
     <td width="50%" valign="top">
@@ -155,7 +155,6 @@
     </td>
   </tr>
 </table>
-
 
 
 # Technologies & Tools 🔧
