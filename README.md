@@ -192,6 +192,9 @@
 <a href="https://github.com/SayiaFelix?tab=followers">
     <img src="https://img.shields.io/github/followers/SayiaFelix?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub Followers" />
   </a>
+  <a href="https://www.linkedin.com/mynetwork/invite-connect/connections/">
+    <img src="https://img.shields.io/linkedin/connections/SayiaFelix?label=Connections&logo=linkedin&style=for-the-badge" alt="linkedin Followers" />
+  </a>
  </p>
  <br>
   <p>
