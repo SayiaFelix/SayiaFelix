@@ -56,9 +56,9 @@
       <br />
         <p align="center">
           <br>
-           <a href="https://sirfelix-portfolio.herokuapp.com/Sir_Felix_Portfolio" target="_blank">
+           <!-- <a href="https://sirfelix-portfolio.herokuapp.com/Sir_Felix_Portfolio" target="_blank">
            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-            </a>
+            </a> -->
           <a href="https://sirfelix-portfolio.herokuapp.com/" target="_blank">
            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
             </a>
