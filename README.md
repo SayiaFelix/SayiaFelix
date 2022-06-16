@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Sayia Felix Lucas</h1>
+<h1 align="center"> I'm Sayia Felix Lucas</h1>
 <h3 align="center">A Fullstack Engineer from Kenya</h3>
 
  
@@ -27,7 +27,7 @@
 <!-- **SayiaFelix/SayiaFelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <hr>
-
+<h1 align="center">Hello Folks,</h1>
 <img style="border-radius:10px;" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" align="right" height="300">
 
 🌱 I’m currently learning django,
