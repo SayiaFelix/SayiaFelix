@@ -15,7 +15,7 @@
   <a href="https://twitter.com/safu_jay" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=d18014&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-  <a href="cv.pdf" target="_blank" download="cv.pdf">
+  <a href="resume.pdf" target="_blank" download="resume.pdf">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=24555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
