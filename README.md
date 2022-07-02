@@ -28,7 +28,7 @@
 <img style="border-radius:10px;" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" align="right" height="300">
 
 
-🌱 I’m currently learning django,
+🌱 I’m currently learning ReactJs,
 
 👯 I’m looking to collaborate on different projects
 
