@@ -50,15 +50,13 @@
       <br>
           <img src="images/api.png" width="100%" alt="portfolio"/> 
       <br>
-    </td>
-    
-    <td width="50%" valign="top">
-        <h2 align="center">INSTAGRAM LITE</h2>
-          <br />
-              <img src="images/picmain.png" width="100%" alt="Insta clone"/>
-          <br>
-   
-      </td>
+     </td>
+      <td width="50%" valign="top">
+         <h2 align="center">INSTALITE</h2>
+         <br>
+             <img src="images/picmain.png" width="100%" alt="portfolio"/> 
+         <br>
+     </td>
     </tr>
     
    <!-- <tr>
