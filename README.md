@@ -48,7 +48,6 @@
     <td width="50%" valign="top">
       <h2 align="center">PORTFOLIO</h2>
       <br>
-       <!--<a href="https://sirfelix-portfolio.herokuapp.com/" target="_blank"> -->
           <img src="images/api.png" width="100%" alt="portfolio"/> 
       <br>
       
