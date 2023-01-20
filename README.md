@@ -47,10 +47,12 @@
   <tr>
     <td width="50%" valign="top">
       <h2 align="center">PORTFOLIO</h2>
-      <br />
+      <br>
        <!--<a href="https://sirfelix-portfolio.herokuapp.com/" target="_blank"> -->
+       
           <img src="images/api.png" width="100%" alt="portfolio"/> 
-      <br />
+      <br>
+      
       <!-- <p align="center">
           <br>
         <a href="https://sirfelix-portfolio.herokuapp.com/" target="_blank"> 
@@ -63,7 +65,7 @@
         <h2 align="center">INSTAGRAM LITE</h2>
           <br />
               <img src="images/picmain.png" width="100%" alt="Insta clone"/>
-          <br />
+          <br>
    
      </td>
     </tr>
@@ -73,10 +75,10 @@
         <h2 align="center">NEWS API</h2>
           <br />
               <img src="images/NEWS.png" width="100%"  alt="NEWS API"/>
-          <br />
+    
       
-    </td>
-    <td width="50%" valign="top">
+       </td>
+      <td width="50%" valign="top">
       <h2 align="center">THE DEV PLANNER</h2>
         <br/>
           <img src="images/dev.png" width="100%" alt="DEV Planner"/>
