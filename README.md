@@ -1,5 +1,4 @@
 
-<!-- [![Header](https://github.com/SayiaFelix/SayiaFelix/blob/main/logo.png?raw=true "Header")](https://sirfelix-portfolio.herokuapp.com/) -->
 <h1 align="center"> Hello Folks! <img src="https://github.com/SayiaFelix/SayiaFelix/blob/main/wave.gif?raw=true" width="30"></h1>
 <h2 align="center">I'm Sayia Felix Lucas</h2>
 <h3 align="center">A Software Engineer from Nairobi, Kenya</h3>
@@ -15,14 +14,14 @@
   <a href="https://twitter.com/safu_jay" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=d18014&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-  <a href="resume.pdf" target="_blank" download="resume.pdf">
+ <!-- <a href="resume.pdf" target="_blank" download="resume.pdf">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=24555f&style=plastic&logo=react&logo-color=white"/>
-  </a>
+  </a>-->
 </p>
 
 <br>
 
-<!-- **SayiaFelix/SayiaFelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+**SayiaFelix/SayiaFelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <hr>
 <img style="border-radius:10px;" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" align="right" height="300">
@@ -32,7 +31,7 @@
 
 👯 I’m looking to collaborate on different projects
 
-👨‍💻 All of my projects are available at [my website](https://sirfelix-portfolio.herokuapp.com/)
+<!--👨‍💻 All of my projects are available at [my website](https://sirfelix-portfolio.herokuapp.com/)-->
 
 👀 Ask me about AngularJs, Flask,django and APIs
 
@@ -43,20 +42,19 @@
 <br>
 <br>
 <hr>
-
 # Projects ⚙️
 <table bordercolor="#66b2b">
   <tr>
     <td width="50%" valign="top">
       <h2 align="center">PORTFOLIO</h2>
       <br />
-        <a target="_blank" href="https://sirfelix-portfolio.herokuapp.com/">
+       <!--<a href="https://sirfelix-portfolio.herokuapp.com/" target="_blank"> -->
           <img src="images/api.png" width="100%" alt="portfolio"/>
         </a>
       <br />
         <p align="center">
           <br>
-          <a href="https://sirfelix-portfolio.herokuapp.com/" target="_blank">
+        <!--<a href="https://sirfelix-portfolio.herokuapp.com/" target="_blank"> -->
            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
             </a>
       </p> 
@@ -64,13 +62,11 @@
     <td width="50%" valign="top">
         <h2 align="center">INSTAGRAM LITE</h2>
           <br />
-          <a target="_blank" href="https://sir-instalite.herokuapp.com/">
               <img src="images/picmain.png" width="100%" alt="Insta clone"/>
           </a>
           <br />
           <p align="center">
             <br>
-         <a href="https://sir-instalite.herokuapp.com/" target="_blank">
          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
          </a>
         </p>
@@ -80,13 +76,11 @@
       <td width="50%" valign="top">
         <h2 align="center">NEWS API</h2>
           <br />
-        <a target="_blank" href="https://sirfelixnews.herokuapp.com/">
               <img src="images/NEWS.png" width="100%"  alt="NEWS API"/>
           </a>
           <br />
           <p align="center">
         <br>
-        <a href="https://sirfelixnews.herokuapp.com/" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
         </a>
         </p>
@@ -94,13 +88,11 @@
     <td width="50%" valign="top">
       <h2 align="center">THE DEV PLANNER</h2>
         <br />
-        <a target="_blank" href="https://the-dev-planner.herokuapp.com/">
           <img src="images/dev.png" width="100%" alt="DEV Planner"/>
         </a>
         <br>
         <p align="center">
           <br>
-         <a href="https://the-dev-planner.herokuapp.com/" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
         </a>
       </p>  
@@ -110,13 +102,11 @@
     <td width="50%" valign="top">
         <h2 align="center">BLOG APP</h2>
         <br />
-          <a target="_blank" href="https://sirfeliz-blog.herokuapp.com/">
             <img src="images/BLOG.png" width="100%" alt="BLOG APP"/>
           </a>
         <br />
           <p align="center">
             <br>
-         <a href="https://sirfeliz-blog.herokuapp.com/" target="_blank">
          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
          </a>
         </p>
@@ -124,13 +114,11 @@
     <td width="50%" valign="top">
       <h2 align="center">AWWWARDS. HUB</h2>
         <br />
-        <a target="_blank" href="https://sir-awwwards.herokuapp.com/">
           <img src="images/AWARDS.png" width="100%" alt="IP Address Tracker"/>
         </a>
         <br />
         <p align="center">
           <br>
-         <a href="https://sir-awwwards.herokuapp.com/" target="_blank">
          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
        </a>
       </p>
