@@ -50,8 +50,6 @@
       <br>
           <img src="images/api.png" width="100%" alt="portfolio"/> 
       <br>
-      
-    
     </td>
     
     <td width="50%" valign="top">
@@ -63,7 +61,7 @@
       </td>
     </tr>
     
-    <tr>
+   <!-- <tr>
       <td width="50%" valign="top">
         <h2 align="center">NEWS API</h2>
           <br />
@@ -93,7 +91,7 @@
         <br />
 
     </td>
-  </tr>
+  </tr>-->
 </table>
 
 
