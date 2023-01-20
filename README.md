@@ -49,7 +49,6 @@
       <h2 align="center">PORTFOLIO</h2>
       <br>
        <!--<a href="https://sirfelix-portfolio.herokuapp.com/" target="_blank"> -->
-       
           <img src="images/api.png" width="100%" alt="portfolio"/> 
       <br>
       
@@ -67,7 +66,7 @@
               <img src="images/picmain.png" width="100%" alt="Insta clone"/>
           <br>
    
-     </td>
+      </td>
     </tr>
     
     <tr>
@@ -75,7 +74,7 @@
         <h2 align="center">NEWS API</h2>
           <br />
               <img src="images/NEWS.png" width="100%"  alt="NEWS API"/>
-    
+         <br />
       
        </td>
       <td width="50%" valign="top">
@@ -83,7 +82,6 @@
         <br/>
           <img src="images/dev.png" width="100%" alt="DEV Planner"/>
         <br>
-  
     </td>
   </tr>
   <tr>
