@@ -52,24 +52,21 @@
           <img src="images/api.png" width="100%" alt="portfolio"/>
         </a>
       <br />
-        <p align="center">
+      <!-- <p align="center">
           <br>
         <!--<a href="https://sirfelix-portfolio.herokuapp.com/" target="_blank"> -->
            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
             </a>
-      </p> 
+      </p> -->
     </td>
+    
     <td width="50%" valign="top">
         <h2 align="center">INSTAGRAM LITE</h2>
           <br />
               <img src="images/picmain.png" width="100%" alt="Insta clone"/>
           </a>
           <br />
-          <p align="center">
-            <br>
-         <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-         </a>
-        </p>
+   
      </td>
     </tr>
     <tr>
@@ -79,11 +76,7 @@
               <img src="images/NEWS.png" width="100%"  alt="NEWS API"/>
           </a>
           <br />
-          <p align="center">
-        <br>
-          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-        </a>
-        </p>
+      
     </td>
     <td width="50%" valign="top">
       <h2 align="center">THE DEV PLANNER</h2>
@@ -91,11 +84,7 @@
           <img src="images/dev.png" width="100%" alt="DEV Planner"/>
         </a>
         <br>
-        <p align="center">
-          <br>
-          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-        </a>
-      </p>  
+  
     </td>
   </tr>
   <tr>
@@ -105,11 +94,7 @@
             <img src="images/BLOG.png" width="100%" alt="BLOG APP"/>
           </a>
         <br />
-          <p align="center">
-            <br>
-         <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-         </a>
-        </p>
+
     </td>
     <td width="50%" valign="top">
       <h2 align="center">AWWWARDS. HUB</h2>
@@ -117,11 +102,7 @@
           <img src="images/AWARDS.png" width="100%" alt="IP Address Tracker"/>
         </a>
         <br />
-        <p align="center">
-          <br>
-         <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-       </a>
-      </p>
+
     </td>
   </tr>
 </table>
