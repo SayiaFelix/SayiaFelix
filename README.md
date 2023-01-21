@@ -52,44 +52,43 @@
       <br>
      </td>
       <td width="50%" valign="top">
-         <h2 align="center">INSTALITE</h2>
+         <h2 align="center">INSTAGRAM LITE</h2>
          <br>
-             <img src="images/picmain.png" width="100%" alt="portfolio"/> 
+             <img src="images/picmain.png" width="100%" alt="Instagram"/> 
          <br>
      </td>
     </tr>
     
-   <!-- <tr>
-      <td width="50%" valign="top">
-        <h2 align="center">NEWS API</h2>
-          <br />
-              <img src="images/NEWS.png" width="100%"  alt="NEWS API"/>
-         <br />
-      
+   <tr>
+       <td width="50%" valign="top">
+           <h2 align="center">NEWS API</h2>
+           <br>
+               <img src="images/NEWS.png" width="100%" alt="NEWS API"/> 
+           <br>
        </td>
-      <td width="50%" valign="top">
-      <h2 align="center">THE DEV PLANNER</h2>
-        <br/>
-          <img src="images/dev.png" width="100%" alt="DEV Planner"/>
-        <br>
-    </td>
+         <td width="50%" valign="top">
+           <h2 align="center">THE DEV PLANNER</h2>
+           <br>
+               <img src="images/dev.png" width="100%" alt="DEV Planner"/> 
+           <br>
+        </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-        <h2 align="center">BLOG APP</h2>
-        <br />
-            <img src="images/BLOG.png" width="100%" alt="BLOG APP"/>
-        <br />
-
-    </td>
-    <td width="50%" valign="top">
-      <h2 align="center">AWWWARDS. HUB</h2>
-        <br />
-          <img src="images/AWARDS.png" width="100%" alt="IP Address Tracker"/>
-        <br />
-
-    </td>
-  </tr>-->
+   
+         <td width="50%" valign="top">
+           <h2 align="center">BLOG APP</h2>
+           <br>
+               <img src="images/BLOG.png" width="100%" alt="BLOG APP"/> 
+           <br>
+        </td>
+         
+         <td width="50%" valign="top">
+           <h2 align="center">AWWWARDS. HUB</h2>
+           <br>
+               <img src="images/AWARDS.png" width="100%" alt="DEV Planner"/> 
+           <br>
+        </td>
+  </tr>
 </table>
 
 
