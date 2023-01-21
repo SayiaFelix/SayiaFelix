@@ -73,22 +73,20 @@
            <br>
         </td>
   </tr>
-  <tr>
-   
+   <tr>
          <td width="50%" valign="top">
-           <h2 align="center">BLOG APP</h2>
-           <br>
-               <img src="images/BLOG.png" width="100%" alt="BLOG APP"/> 
-           <br>
-        </td>
-         
-         <td width="50%" valign="top">
-           <h2 align="center">AWWWARDS. HUB</h2>
-           <br>
-               <img src="images/AWARDS.png" width="100%" alt="DEV Planner"/> 
-           <br>
-        </td>
-  </tr>
+            <h2 align="center">BLOG APP</h2>
+            <br>
+                <img src="images/BLOG.png" width="100%" alt="BLOG APP"/> 
+            <br>
+         </td>
+          <td width="50%" valign="top">
+            <h2 align="center">AWWWARDS. HUB</h2>
+            <br>
+                <img src="images/AWARDS.png" width="100%" alt="DEV Planner"/> 
+            <br>
+         </td>
+   </tr>
 </table>
 
 
