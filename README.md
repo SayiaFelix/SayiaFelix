@@ -1,7 +1,7 @@
 
 <h1 align="center"> Hello Folks! <img src="https://github.com/SayiaFelix/SayiaFelix/blob/main/wave.gif?raw=true" width="30"></h1>
 <h2 align="center">I'm Sayia Felix Lucas</h2>
-<h3 align="center">A Software Engineer from Nairobi, Kenya</h3>
+<h3 align="center">A Data Scientist and Software Engineer from Nairobi, Kenya</h3>
 
  
 <p align="center">
